@@ -7,7 +7,7 @@ watermarking an image into an audio file
 不知道各位还记不记得去年HCTF的图片隐写题，去年的大一通信小学弟今年已经大二了。
 他从课堂上学会了音频隐写，~~并选了大家（wo）LP的一首歌准备在双11送给大家（虽然没几个人开到）~~
 
-####__解题分析：__
+## __解题分析：__
 
 题目后来也放过__hint: concentrate on the waveform 注意波形图__
 用__Audacity__打开new_love_song.wav,基本近似于一种矩形:
