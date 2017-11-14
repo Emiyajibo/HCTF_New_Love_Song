@@ -16,5 +16,7 @@ watermarking an image into an audio file
 ![new_love_song](http://olqhuq6wn.bkt.clouddn.com/HCTF_3.png  "new_love_song")
 所以我们就把波放大，能够发现：
 ![new_love_song](http://olqhuq6wn.bkt.clouddn.com/HCTF_2.png  "new_love_song")
+
+
 相隔特定的距离 就会出现一段直线。接触过的人肯定知道，直线波就是某一特定的值
 能够猜测 肯定有东西藏在其中，尝试提取出来，发现是一串01串 长度可开方 ，又是熟悉的转换二维码，扫描get flag
