@@ -1,6 +1,7 @@
 %% extract watermark (the image) from the audio file
 % input:   host_new(watermarked audio file)
-% output:  wm(watermark image)        
+% output:  wm(watermark image)
+% Alireza Asvadi
 %% clear memory & command window
 clc
 clear
