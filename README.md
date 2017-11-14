@@ -9,8 +9,8 @@ watermarking an image into an audio file
 
 ## __解题分析：__
 
-题目后来也放过__hint: concentrate on the waveform 注意波形图__
-用__Audacity__打开new_love_song.wav,基本近似于一种矩形:
+题目后来也放过 __hint: concentrate on the waveform 注意波形图__
+用 __Audacity__ 打开 __new_love_song.wav__ ,基本近似于一种矩形:
 ![new_love_song](http://olqhuq6wn.bkt.clouddn.com/HCTF_1.png  "new_love_song")
 而正常的音频波形往往都是高低起伏的:
 ![new_love_song](http://olqhuq6wn.bkt.clouddn.com/HCTF_3.png  "new_love_song")
