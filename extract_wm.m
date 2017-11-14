@@ -18,7 +18,7 @@ wm_bin_str = host_bin(1:wm_sz, 8);
 wm_bin    = reshape(wm_bin_str, px_sz , 8);
 wm_str    = zeros(px_sz, 1, 'uint8');
 for i     = 1:px_sz                        % extract water mark from the first plane of host               
-wm_str(i, :) = bin2dec(wm_bin(i, :));      % Least Significant Bit (LSB)
+wm_str(i, :) = bin2dec(wm_bin(i, :));      % Least Significant Bit 
 end
 wm        = reshape(wm_str, im_sz , im_sz);
 %% show image
